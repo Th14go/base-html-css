@@ -1,0 +1,66 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: #2d3436;
+}
+p .pPrinc {
+    color: white;
+    text-shadow: 0.0625rem 0.0625rem 0.0625rem #11111111;
+    font-size: 1.125rem;
+}
+header  {
+ background-color:  #35b8b0;
+ height: 5rem;
+ padding: 1.25rem;
+}
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    clear: both;
+    background-color:  #35b8b0;
+    height: 5rem;
+    text-align: center;
+}
+h1 {
+    color: #35b8b0;
+    text-shadow: 0.0625rem 0.0625rem 0.0625rem #11111111;
+    margin: 0 0 3.125rem 0;
+}
+.principal {
+    background-image:url('/img/');
+    clear: both;
+    background-size: 100%;
+    min-height: 18.75rem;
+    padding:  3.125rem 0 0 0;
+}
+.logo {
+float: left;
+}
+.menu {
+    float: right;
+    margin-top: 1.875rem;
+}
+.menu a {
+    padding: 3.25rem;
+    text-decoration: none;
+    color: #2d3436;
+}
+.menu a:hover {
+    background-color: #2d3436;
+    color: #35b8b0;
+}
+.container {
+    width: 60rem;
+    margin:  0 auto;
+}
+.efeito {
+    /* background-color: rgba(0, 0, 0, 0.5); */
+   background-color: #2d3436;
+    padding: 5rem 0 5rem 0;
+}
+
+
